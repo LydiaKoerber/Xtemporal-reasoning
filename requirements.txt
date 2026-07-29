@@ -4,4 +4,4 @@ pandas==2.0.*
 protobuf==4.25.8
 sentencepiece==0.1.99
 torch==2.6.0
-transformers==5.3.0
+transformers==5.5.0
